@@ -6,16 +6,16 @@
 #ifndef __CONFIG_TYPES__
 #define __CONFIG_TYPES__
 
-/**
- * @brief Harkonnen Mass Position type
- */
-typedef struct Harkonnen_Mass_Position_t
-{
-  uint8_t x;
-  uint8_t y;
-  float velocity_x;
-  float velocity_y;
-} Harkonnen_Mass_Position_t;
+// /**
+//  * @brief Harkonnen Mass Position type
+//  */
+// typedef struct Harkonnen_Mass_Position_t
+// {
+//   uint8_t x;
+//   uint8_t y;
+//   float velocity_x;
+//   float velocity_y;
+// } Harkonnen_Mass_Position_t;
 
 
 
